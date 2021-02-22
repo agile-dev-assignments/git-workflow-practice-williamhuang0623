@@ -9,3 +9,6 @@ The idea of sourcing offchain information through decentralized oracles to enhan
 
 *Comments by maria hatzioanidis*  
 This article is super interesting because as someone super unfamiliar with crypto I like the approaches they mentioned, such as linking social media, to make it feel even more like a personable exchange. This is something I know dating apps starting doing as well in the past couple years which have benefitted their interfaces. 
+
+*Comments by Rahul Das*  
+This is interesting in that people  use crypto because of the non-identifying features that it has. But, now people are scared that they will send it to the wrong person, It is similar to venmo in that it is easy to send the payments to the wrong person. However, what is interesting is that many people use crypto so that they remain anonymous, but now that it is becoming more popular, people want to use it in everyday life so it has to be easier to identify others. This multi use of crypto will complicate things. 
